@@ -1,0 +1,8 @@
+print('Llevar a la obeja del otro lado del rio')
+print('Regresar en el bote')
+print('Llevar al lobo')
+print('Regresar con la obeja')
+print('Llevar a la col')
+print('Regresar solo')
+print('Llevar a la obeja')
+Solución= 'los tres animales del otro lado del rio'

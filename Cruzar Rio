@@ -1,8 +1,8 @@
-print('Llevar a la obeja del otro lado del rio')
+print('Llevar a la gallina del otro lado del rio')
 print('Regresar en el bote')
-print('Llevar al lobo')
-print('Regresar con la obeja')
-print('Llevar a la col')
-print('Regresar solo')
-print('Llevar a la obeja')
-Solución= 'los tres animales del otro lado del rio'
+print('Llevar al zorro')
+print('Regresar junto con la gallina')
+print('Llevar el maiz')
+print('Regresar en el bote')
+print('Llevar a la gallina') 
+Solucion = 'Los tres anim,ales del otro lado del rio'
